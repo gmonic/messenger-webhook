@@ -1,16 +1,17 @@
 {
   "name": "messenger-webhook",
   "version": "1.0.0",
-  "description": "default",
-  "main": "default",
+  "description": "a webhook for facebook messenger",
+  "main": "",
   "scripts": {
-    "test": "default"
+    "start": "",
+    "test": "npm test"
   },
   "repository": {
     "type": "git",
     "url": "default"
   },
-  "author": "",
+  "author": "M",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
